@@ -56,7 +56,7 @@ Better deployed on iPhone 8 or later version
 - SkeletonView
 
 ## Contribution
-Zhaoyang Li takes responsibility of top-track-screen and its attached screens; music-player-screen; top-album-screen and its attached screens; search-result-screen and its attached screens, artist attached screens designing;
+John-Li-happy takes responsibility of top-track-screen and its attached screens; music-player-screen; top-album-screen and its attached screens; search-result-screen and its attached screens, artist attached screens designing;
 
 Xin Yu takes responsibility of launch-screen; user-detail-screen desinging.
 
@@ -67,4 +67,8 @@ Tong Yi takes responsibility of artist-screen desinging
 ## Permission
 
 The main purpose of this project is to bring enjoyment to those who enjoys music, also to offer a good chance for developers who is also interested in iOS developing to discuss. This is an open source project, but it is not allowed to use it as any commercial-purposes.
+
+![Album Detail](https://user-images.githubusercontent.com/63318597/98051911-da874c80-1e02-11eb-9915-8548e1e76fd9.jpeg)
+![Albums](https://user-images.githubusercontent.com/63318597/98051914-db1fe300-1e02-11eb-9343-56c4bb727f68.jpeg)
+![Artist Detail 2](https://user-images.githubusercontent.com/63318597/98051915-dbb87980-1e02-11eb-80a0-3194a19904e9.jpeg)
 
