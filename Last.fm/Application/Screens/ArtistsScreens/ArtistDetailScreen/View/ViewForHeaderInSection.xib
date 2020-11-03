@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" restorationIdentifier="artistDetailViewForHeader" interfaceStyle="dark" id="MPl-a5-dXi" customClass="ViewForHeaderInSection" customModule="Last_fm" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="80"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Similiar Artists" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E0D-ph-zyY">
+                    <rect key="frame" x="20" y="28" width="125" height="24"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BB2-l0-Rez">
+                    <rect key="frame" x="364" y="25" width="30" height="30"/>
+                    <color key="tintColor" red="0.8862745098" green="0.10980392160000001" blue="0.13725490200000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <state key="normal" title="---"/>
+                    <connections>
+                        <action selector="viewAllButtonTapped:" destination="MPl-a5-dXi" eventType="touchUpInside" id="RCm-SA-rIw"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="B5Y-lg-FIw"/>
+            <color key="backgroundColor" red="0.094117647060000004" green="0.1058823529" blue="0.16862745100000001" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="B5Y-lg-FIw" firstAttribute="trailing" secondItem="BB2-l0-Rez" secondAttribute="trailing" constant="20" id="2K7-5e-kkX"/>
+                <constraint firstItem="E0D-ph-zyY" firstAttribute="centerY" secondItem="B5Y-lg-FIw" secondAttribute="centerY" id="BHv-l6-3ox"/>
+                <constraint firstItem="BB2-l0-Rez" firstAttribute="centerY" secondItem="B5Y-lg-FIw" secondAttribute="centerY" id="M1b-MI-aGi"/>
+                <constraint firstItem="E0D-ph-zyY" firstAttribute="leading" secondItem="B5Y-lg-FIw" secondAttribute="leading" constant="20" id="xUa-TI-PBX"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="headerLabel" destination="E0D-ph-zyY" id="BxH-Tt-GdJ"/>
+                <outlet property="viewAllButton" destination="BB2-l0-Rez" id="mA3-z0-TXz"/>
+            </connections>
+            <point key="canvasLocation" x="-168.11594202898553" y="113.72282608695653"/>
+        </view>
+    </objects>
+</document>

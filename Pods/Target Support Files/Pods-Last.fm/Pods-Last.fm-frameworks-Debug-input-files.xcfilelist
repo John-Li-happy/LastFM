@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Last.fm/Pods-Last.fm-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/HideShowPasswordTextField/HideShowPasswordTextField.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SkeletonView/SkeletonView.framework
+${BUILT_PRODUCTS_DIR}/SwiftHash/SwiftHash.framework
+${BUILT_PRODUCTS_DIR}/SwiftyGif/SwiftyGif.framework
