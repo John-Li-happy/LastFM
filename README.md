@@ -1,5 +1,5 @@
 # LastFM
-LastFM is a open source music player application built in iOS enviroment, allows user enjoy or scrobble multi-directed music.
+LastFM is a open source music player application built in iOS enviroment, allows user enjoy or scrobble multi-directional music.
 
 ## IDE
 Xcode 11.6
@@ -17,22 +17,24 @@ Better deployed on iPhone 8 or later version
 > https://www.deezer.com/us/
 
 ## Technologies
-MVVM
-Singleton
-Observation
-Delegation
+- Model-View-ViewModel (MVVM)
+- Singleton
+- Observation
+- Delegation
 
-AVAudioPlayer
-MediaPlayer
-SafariServices
-SwiftyGif
+## Frameworks
+- UIkit
+- AVAudioPlayer
+- MediaPlayer
+- SafariServices
+- SwiftyGif
 
 UserDefault
 
 ## Contribution
 Zhaoyang Li takes responsibility of top-track-screen and its attached screens; music-player-screen; top-album-screen and its attached screens; search-result-screen and its attached screens, artist attached screens designing;
 
-Shawn Yu takes responsibility of user-detail-screen desinging.
+Xin Yu takes responsibility of user-detail-screen desinging.
 
 Zijian Li takes responsibility of login-screen desinging.
 
