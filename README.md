@@ -14,12 +14,22 @@ Better deployed on iPhone 8 or later version
 ### Launch Screen
  - Animation, as well as static logo is implemented in launch screen
 ### Login Screen
- - Allows user input user-name and password to get assess into lastFM APIs
+ - Allow user input user-name and password to get assess into lastFM APIs
  - Hide user sensitive imformation (e.g. password)
- - Allows user to create new account by going to the website
+ - Allow user to create new account by going to the website
 ### Top Track Screen
-
+ - Display user-interest-directional songs
+ - Display most-popular songs
+ - Search feature is avaliable at navigation bar
+ - SkeletonView is implemented
+ - MusicPlayer screen is attached into each-tap
 ### Album Screen
+ - Display user-interest-directional albums
+ - Display most-popular albums
+ - ViewAll is available to show user more information of current catogory
+ - Search feature is avaliable at navigation bar
+ - AlbumDetail screen is attached into each-tap
+ - AlbuDetail displays songs included the album
 ### Artist Screen
 ### User Detail Screen
 ### Search Screen
@@ -27,9 +37,9 @@ Better deployed on iPhone 8 or later version
 
 ## API References
 
-> https://www.last.fm/home
+> https://www.last.fm/api
 
-> https://www.deezer.com/us/
+> https://developers.deezer.com/
 
 ## Technologies
 - Model-View-ViewModel (MVVM)
@@ -43,6 +53,7 @@ Better deployed on iPhone 8 or later version
 - AVAudioPlayer
 - MediaPlayer
 - SafariServices
+- SkeletonView
 
 ## Contribution
 Zhaoyang Li takes responsibility of top-track-screen and its attached screens; music-player-screen; top-album-screen and its attached screens; search-result-screen and its attached screens, artist attached screens designing;
