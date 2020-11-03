@@ -67,3 +67,7 @@ Tong Yi takes responsibility of artist-screen desinging
 ## Permission
 
 The main purpose of this project is to bring enjoyment to those who enjoys music, also to offer a good chance for developers who is also interested in iOS developing to discuss. This is an open source project, but it is not allowed to use it as any commercial-purposes.
+
+![Album Detail](https://user-images.githubusercontent.com/63318597/98051490-0524d580-1e02-11eb-9319-ae183a6eb0b7.jpeg)
+
+![Albums](https://user-images.githubusercontent.com/63318597/98051534-14a41e80-1e02-11eb-8cc0-03722d133762.jpeg)
