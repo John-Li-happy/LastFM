@@ -10,6 +10,21 @@ Objective-C 2.0
 
 Better deployed on iPhone 8 or later version
 
+## Features
+### Launch Screen
+ - Animation, as well as static logo is implemented in launch screen
+### Login Screen
+ - Allows user input user-name and password to get assess into lastFM APIs
+ - Hide user sensitive imformation (e.g. password)
+ - Allows user to create new account by going to the website
+### Top Track Screen
+
+### Album Screen
+### Artist Screen
+### User Detail Screen
+### Search Screen
+### Music Player Screen
+
 ## API References
 
 > https://www.last.fm/home
@@ -23,18 +38,16 @@ Better deployed on iPhone 8 or later version
 - Delegation
 
 ## Frameworks
+- SwiftyGif
 - UIkit
 - AVAudioPlayer
 - MediaPlayer
 - SafariServices
-- SwiftyGif
-
-UserDefault
 
 ## Contribution
 Zhaoyang Li takes responsibility of top-track-screen and its attached screens; music-player-screen; top-album-screen and its attached screens; search-result-screen and its attached screens, artist attached screens designing;
 
-Xin Yu takes responsibility of user-detail-screen desinging.
+Xin Yu takes responsibility of launch-screen; user-detail-screen desinging.
 
 Zijian Li takes responsibility of login-screen desinging.
 
