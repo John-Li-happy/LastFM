@@ -86,4 +86,15 @@ Better deployed on iPhone 8 or later version
 
 The main purpose of this project is to bring enjoyment to those who enjoys music, also to offer a good chance for developers who is also interested in iOS developing to discuss. This is an open source project, but it is not allowed to use it as any commercial-purposes.
 
-
+![Albums](https://user-images.githubusercontent.com/63318597/98055007-7d8f9480-1e0a-11eb-8859-e1132ec8f913.jpeg)
+![Album Detail](https://user-images.githubusercontent.com/63318597/98055010-7e282b00-1e0a-11eb-8aca-769728a5e124.jpeg)
+![Artists](https://user-images.githubusercontent.com/63318597/98055013-7ec0c180-1e0a-11eb-9d61-0cdfc04fea26.jpeg)
+![Artist Detail](https://user-images.githubusercontent.com/63318597/98055015-7ec0c180-1e0a-11eb-8713-02aa41ff6ec3.jpeg)
+![Search Songs](https://user-images.githubusercontent.com/63318597/98055016-7f595800-1e0a-11eb-8ba3-be98ab21ac3f.jpeg)
+![Profile](https://user-images.githubusercontent.com/63318597/98055017-7ff1ee80-1e0a-11eb-9674-10305506b9ef.jpeg)
+![Profile2](https://user-images.githubusercontent.com/63318597/98055019-7ff1ee80-1e0a-11eb-9eb5-2f2ee94a570e.jpeg)
+![Discover](https://user-images.githubusercontent.com/63318597/98055020-7ff1ee80-1e0a-11eb-9f49-852646e4ca0b.jpeg)
+![Search Albums](https://user-images.githubusercontent.com/63318597/98055021-808a8500-1e0a-11eb-9d22-a8bae740257a.jpeg)
+![Artist Detail 2](https://user-images.githubusercontent.com/63318597/98055023-808a8500-1e0a-11eb-9c7d-3b5d878de20e.jpeg)
+![Music Playing](https://user-images.githubusercontent.com/63318597/98055024-808a8500-1e0a-11eb-971f-44c3b243d7e2.jpeg)
+![Login](https://user-images.githubusercontent.com/63318597/98055025-81231b80-1e0a-11eb-8f99-742e2b129b9e.jpeg)
