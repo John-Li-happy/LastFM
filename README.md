@@ -21,6 +21,7 @@ Better deployed on iPhone 8 or later version
  - Display user-interest-directional songs
  - Display most-popular songs
  - Search feature is avaliable at navigation bar
+ - Dynamic constraints is applied
  - SkeletonView is implemented
  - MusicPlayer screen is attached into each-tap
 ### Album Screen
@@ -28,13 +29,30 @@ Better deployed on iPhone 8 or later version
  - Display most-popular albums
  - ViewAll is available to show user more information of current catogory
  - Search feature is avaliable at navigation bar
- - AlbumDetail screen is attached into each-tap
- - AlbuDetail displays songs included the album
+ - Album-detail screen is attached into each-tap
 ### Artist Screen
+ - Display most-popular artists
+ - Allow filter based on user-interest
+ - Artist-detail screen is attached into each-tap
 ### User Detail Screen
+ - Display user basic info (e.g. avatar, gender, age, country)
+ - Logout feature is implemented 
+ - Display list of user-recent-tracks
+ - Display user-faverate artists
+ - Display top-songs that user listened
+ - Detail screens are attached to all-taps
 ### Search Screen
+ - Display song list based on user-typed keyword(s)
+ - Display album list based on user-typed keyword(s)
 ### Music Player Screen
-
+ - Play music based on user-chosen
+ - Allow user to share this song link through multiple-social media
+ - Basic song info is displayed on animated UI
+ - Multiple cycle is allowed to choose: sequencial, single, shuffle
+ - NotificationCenter & ControlCenter is displaying music info, and both allow user control the play state
+ - Landscape is forbidden in this screen
+ - EsternEgg is implemented in this screen
+ - Volume control is activated in
 ## API References
 
 > https://www.last.fm/api
