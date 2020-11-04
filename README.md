@@ -73,15 +73,6 @@ Better deployed on iPhone 8 or later version
 - SafariServices
 - SkeletonView
 
-## Contribution
-[John-Li-happy](https://github.com/John-Li-happy) takes responsibility of top-track-screen and its attached screens; music-player-screen; top-album-screen and its attached screens; search-result-screen and its attached screens, artist attached screens designing;
-
-[DevShawnX](https://github.com/DevShawnX) takes responsibility of launch-screen; user-detail-screen desinging.
-
-[ShawnLiii](https://github.com/ShawnLiii) takes responsibility of login-screen desinging.
-
-[lvbeauty](https://github.com/lvbeauty) takes responsibility of artist-screen desinging
-
 ## Permission
 
 The main purpose of this project is to bring enjoyment to those who enjoys music, also to offer a good chance for developers who is also interested in iOS developing to discuss. This is an open source project, but it is not allowed to use it as any commercial-purposes.
