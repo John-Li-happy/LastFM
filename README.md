@@ -1,5 +1,5 @@
 # LastFM
-LastFM is a open source music player application built in iOS enviroment, allows user enjoy or scrobble multi-directional music.
+LastFM is a open-source music player application built in iOS enviroment, allows user enjoy or scrobble multi-directional music.
 
 ## IDE
 Xcode 11.6
