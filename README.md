@@ -46,7 +46,7 @@ Better deployed on iPhone 8 or later version
  - Display album list based on user-typed keyword(s)
 ### Music Player Screen
  - Play music based on user-chosen
- - Allow user to share this song link through multiple-social media
+ - Allow user to share song links through multiple-social media
  - Basic song info is displayed on animated UI
  - Multiple cycle is allowed to choose: sequencial, single, shuffle
  - NotificationCenter & ControlCenter is displaying music info, and both allow user control the play state
