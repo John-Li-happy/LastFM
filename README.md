@@ -4,7 +4,7 @@ LastFM is a open-source music player application built in iOS enviroment.
 ## IDE
 Xcode 11.6
 
-Swift 5.3
+Swift 5.2
 
 Objective-C 2.0
 
